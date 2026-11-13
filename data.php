@@ -10,8 +10,6 @@
 <body>
     <link rel="stylesheet" href="style.css">
     <h1>Data Produk</h1>
-    <a href="tambah.php">Tambah Produk</a>
-    <br>
     <a href="beranda.php">Beranda</a>
     <table border="1">
         <tr>

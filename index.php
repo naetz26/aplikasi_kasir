@@ -9,6 +9,7 @@
     <link rel="stylesheet" href="style.css">
     <h1>Aplikasi Kasir</h1>
     <a href="login.php">Login</a>
+    <br>
     <a href="register.php">Register</a>
 </body>
 </html>

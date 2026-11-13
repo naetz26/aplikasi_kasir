@@ -9,6 +9,9 @@
     <link rel="stylesheet" href="style.css">
     <h1>SELAMAT DATANG di Beranda</h1>
     <a href="data.php">Data Barang</a>
+    <br>
     <a href="pembelian.php">Beli Barang</a>
+    <br>
+    <a href="index.php">Logout</a>
 </body>
 </html>

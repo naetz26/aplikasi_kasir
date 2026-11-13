@@ -1,7 +1,10 @@
 body {
-    background-color: #79eee8;
+    background-color: #67d6b5;
+    text-align: center;
+    place-content: center;
 }
 
 table {
-    margin: center;
-}  
+
+    margin: 1px auto;
+}
