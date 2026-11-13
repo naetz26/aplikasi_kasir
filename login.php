@@ -18,7 +18,7 @@ if(isset($_POST['login'])){
 
 <!DOCTYPE html>
 <html lang="en">
-<head>
+<head> 
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Document</title>
@@ -30,7 +30,7 @@ if(isset($_POST['login'])){
         <input type="text" placeholder="namaPelanggan" name="namaPelanggan">
         <input type="text" placeholder="alamat" name="alamat">
         <input type="text" placeholder="nomor telepon" name="nomorTelepon">
-        <button type="submit" name="login">Login Sekarang</button>
+        <button type="submit" name="login">Login Sekarang</button> 
         <a href="register.php">Belum punya akun? Daftar di sini</a>
     </form>
 
