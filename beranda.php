@@ -8,7 +8,7 @@
 <body>
     <link rel="stylesheet" href="style.css">
     <h1>SELAMAT DATANG di Beranda</h1>
-    <a href="data.php">Data Barang</a>
+    <a href="admin.php">Data Barang</a>
     <br>
     <a href="pembelian.php">Beli Barang</a>
     <br>

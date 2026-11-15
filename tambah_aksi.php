@@ -7,5 +7,5 @@ $Stok = $_POST['Stok'];
 
 mysqli_query($connect,"insert into produk values('','$NamaProduk','$Harga','$Stok')");
 
-header("location:data.php");
+header("location:admin.php");
 ?>
