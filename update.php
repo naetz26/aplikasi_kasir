@@ -8,6 +8,7 @@
 </head>
 
 <body>
+    <link rel="stylesheet" href="style.css">
     <h3>EDIT DATA PRODUK</h3>
     <?php
     include 'koneksi.php';
